@@ -24,13 +24,13 @@ body {
 	box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2);
 }
 .quote-text {
-	font-size: 2.5rem;
+	font-size: 2.5em;
 }
 .fa-quote-left {
 	font-size: 4rem;
 }
 .quote-author {
-	font-size: 1.5em;
+	font-size: 1.5rem;
 	margin-top: 15px;
 	font-style: italic;
 }
